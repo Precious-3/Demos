@@ -1,5 +1,7 @@
 package project;
-
+/*
+This program helps passingers get reservation for tickets with detials.
+*/
 import java.util.Scanner;
 import java.util.Date;
 
